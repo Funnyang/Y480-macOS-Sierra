@@ -1,4 +1,7 @@
 # Y480-macOS-Sierra
+ 
+## Current System
+### 10.12.6
 
 ## My latptop
 Y480N-IFI

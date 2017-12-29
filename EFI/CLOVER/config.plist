@@ -12,15 +12,15 @@
 			<false/>
 			<key>Fixes</key>
 			<dict>
-				<key>AddDTGP_0001</key>
+				<key>AddDTGP</key>
 				<true/>
-				<key>AddIMEI_80000</key>
+				<key>AddIMEI</key>
 				<true/>
-				<key>FixIPIC_0040</key>
+				<key>FixIPIC</key>
 				<true/>
-				<key>FixRegions_10000000</key>
+				<key>FixRegions</key>
 				<true/>
-				<key>FixSBUS_0080</key>
+				<key>FixSBUS</key>
 				<true/>
 			</dict>
 			<key>Name</key>
@@ -105,7 +105,7 @@
 		<key>Secure</key>
 		<false/>
 		<key>Timeout</key>
-		<integer>5</integer>
+		<integer>2</integer>
 		<key>XMPDetection</key>
 		<string>Yes</string>
 	</dict>
@@ -218,20 +218,20 @@
 		</array>
 		<key>KernelCpu</key>
 		<false/>
-		<key>KernelHaswellE</key>
-		<false/>
 		<key>KernelLapic</key>
 		<true/>
 		<key>KernelPm</key>
 		<true/>
+		<key>KernelXCPM</key>
+		<false/>
 	</dict>
 	<key>RtVariables</key>
 	<dict>
 		<key>MLB</key>
-		<string>C02240802CDF651AD</string>
+		<string>C02244609OPDYW31H</string>
 		<key>ROM</key>
 		<data>
-		co33VA9N
+		QKOEVA9N
 		</data>
 	</dict>
 	<key>SMBIOS</key>
@@ -247,11 +247,11 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02240802CDF651AD</string>
+		<string>C02339404OPFF4P1H</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
-		<string>MacBookPro10,2</string>
+		<string>1.0</string>
 		<key>ChassisAssetTag</key>
 		<string>MacBook-Aluminum</string>
 		<key>ChassisManufacturer</key>
@@ -275,9 +275,7 @@
 		<key>ProductName</key>
 		<string>MacBookPro10,2</string>
 		<key>SerialNumber</key>
-		<string>C02JH13EG4N7</string>
-		<key>SmUUID</key>
-		<string>F8B75A49-29FA-4C2B-AB1C-118384540F4D</string>
+		<string>C1MNXZCNG085</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>

@@ -22,6 +22,7 @@ Y480N-IFI
 - Wireless Network (Replaced)
 - Power Nap
 - USB
+- AirDrop (enabled by **Continuity-Activation-Tool**)
 
 
 ### Not Working
@@ -29,6 +30,7 @@ Y480N-IFI
 - Sleep when closing lid
 - nVidia Graphics card (Intel works)
 - ...
+
 
 
 

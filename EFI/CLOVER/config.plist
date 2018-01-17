@@ -247,7 +247,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02313600QXDKG2CB</string>
+		<string>C02353100QXDM661F</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -275,14 +275,14 @@
 		<key>ProductName</key>
 		<string>MacBookPro10,2</string>
 		<key>SerialNumber</key>
-		<string>C02KH23QG4N7</string>
+		<string>C02LXYM9G4N7</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
 		<key>CustomUUID</key>
-		<string>C86F6E6A-7B67-4468-9757-EA8CC76F947F</string>
+		<string>AD5F11EA-BAF5-40B6-9120-D520F0A50A89</string>
 		<key>ExposeSysVariables</key>
 		<true/>
 		<key>InjectKexts</key>
